@@ -2,7 +2,7 @@
 
 Currently, I'm contributing to an open source project, where I'm honing my skills and collaborating with fellow developers to create innovative solutions.
 
-If you want to get in touch with me, drop me a line at bhagirathpancholi20@. I'm always open to discussing new ideas and opportunities.
+If you want to get in touch with me, drop me a line at ###bhagirathpancholi20@gmail.com . I'm always open to discussing new ideas and opportunities.
 
 
 
