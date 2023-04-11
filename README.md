@@ -1,15 +1,15 @@
 👋 Hey there! I'm Bhagi, a passionate developer and data analyst with experience in various programming languages. I've worked on several projects in the past, leveraging my skills to deliver quality results.
 
-Currently, I'm contributing to an open source project, where I'm honing my skills and collaborating with fellow developers to create innovative solutions.
+Currently, I'm contributing to an open source projects 🌱, where I'm honing my skills and collaborating with fellow developers to create innovative solutions.
 
 If you want to get in touch with me, drop me a line at bhagirathpancholi20@gmail.com. I'm always open to discussing new ideas and opportunities.
 
-
+<!---
 # Hi, 👋 I'm Bhagi! 
-I ❤ Open Source
+I ❤ Open Source---> 
 
-<!---## 🚀 About Me--->
-I'm a full stack developer and data analyst.
+<!---## 🚀 About Me
+I'm a full stack developer and data analyst. --->
 
 
 <!---## 🔗 Links 
