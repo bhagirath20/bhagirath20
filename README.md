@@ -1,7 +1,10 @@
-- 👋 Hi, I am Developer and Data Analyst.
-- Worked on few projects in different languages.
-- Currently contributing open source project.
-- My email id - bhagirathpancholi20@.
+👋 Hey there! I'm Bhagi, a passionate developer and data analyst with experience in various programming languages. I've worked on several projects in the past, leveraging my skills to deliver quality results.
+
+Currently, I'm contributing to an open source project, where I'm honing my skills and collaborating with fellow developers to create innovative solutions.
+
+If you want to get in touch with me, drop me a line at bhagirathpancholi20@. I'm always open to discussing new ideas and opportunities.
+
+
 
 <!---
 
