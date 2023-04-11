@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @bhagirath20. Data Analyst and Developer
-
+- 👋 Hi, I am Developer and Data Analyst.
+- Worked on few projects in different languages.
+- Currently contributing open source project.
+- My email id - bhagirathpancholi20@.
 
 <!---
 
