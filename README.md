@@ -4,6 +4,8 @@ Currently, I'm contributing to an open source projects 🌱, where I'm honing my
 
 If you want to get in touch with me, drop me a line at bhagirathpancholi20@gmail.com. I'm always open to discussing new ideas and opportunities.
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagirathpancholi20/)
+
 <!---
 # Hi, 👋 I'm Bhagi! 
 I ❤ Open Source---> 
